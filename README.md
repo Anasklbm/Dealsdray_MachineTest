@@ -1,13 +1,13 @@
-# DealsDray Machine Test
+# DealsDray Machine Test - [View Demo](https://drive.google.com/file/d/1Yo6Z537_pK48o4cAmGi0WWj0laIYFpBd/view?usp=sharing)
 
 ## Description
 
-This is the DealsDray Machine Test project, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The project aims to demonstrate various features and functionalities typically found in a web application, including user authentication, CRUD operations, file uploads, and more.
+The DealsDray Machine Test project is developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It showcases various features commonly found in web applications, such as user authentication, CRUD operations, file uploads, and more.
 
 ## Features
 
 - User authentication (signup, login, logout)
-- Create, read, update, and delete (CRUD) operations for deals
+- CRUD operations for deals (Create, Read, Update, Delete)
 - File uploads for deal images
 - Pagination for deals listing
 - Search functionality to filter deals
